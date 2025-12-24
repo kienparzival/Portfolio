@@ -12,7 +12,7 @@ export function About() {
         <div className="lg:col-span-2">
           <div className="rounded-2xl border border-gray-200 bg-white p-6 shadow-soft">
             <p className="text-gray-700">
-              I'm looking for a software engineering internship where I can contribute quickly and learn from strong teammates. I value clear communication, pragmatic engineering, and thoughtful product details.
+              I'm looking for an internship where I can contribute quickly and learn from strong teammates. I value clear communication, pragmatic engineering, and thoughtful product details.
             </p>
             <p className="mt-3 text-gray-700">
               Outside of work, I enjoy football, playing guitar, chess, tennis, and reading.
